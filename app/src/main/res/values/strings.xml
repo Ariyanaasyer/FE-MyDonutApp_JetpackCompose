@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyDonut</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="home">Home</string>
+    <string name="donutdetailscreen">DonutdetailScreen</string>
+    <string name="drinkdetailscreen">DrinkdetailScreen</string>
+    <string name="outlet">Outlet</string>
+    <string name="profile">Profile</string>
+
+</resources>
